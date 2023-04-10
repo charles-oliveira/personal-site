@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 35px;
+}
+
+.header > .nav {
+  margin-left: auto;
+}
+
+.nav > ul {
+  display: flex;
+  list-style: none;
+  margin-right: 20px;
+}
+.nav > ul > li {
+  padding: 0 10px;
+}
+
+ul > li > a {
+  text-decoration: none;
+  color: #707070;
+}
+
+.header > .menu {
+  width: 25px;
+}
