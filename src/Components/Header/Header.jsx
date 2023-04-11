@@ -5,7 +5,9 @@ import Menu from '../../Objects/Menu'
 const Header = () => {
   return (
     <header className="header">
-      <h3>Charles Oliveira</h3>
+      <a href="#ch">
+        <span> &lt; CH / &gt; </span>
+      </a>
       <nav className="nav">
         <ul>
           <li>
@@ -13,6 +15,9 @@ const Header = () => {
           </li>
           <li>
             <a href="#">Work</a>
+          </li>
+          <li>
+            <a href="#">Newsletter</a>
           </li>
         </ul>
       </nav>

@@ -5,5 +5,19 @@
 }
 
 body {
-  color: #707070;
+  color: #fff;
+  min-width: 100vw;
+  min-height: 100vh;
+  font-family: 'Neue Haas Unica', sans-serif;
+}
+
+main {
+  display: block;
+}
+
+.container {
+  width: 100%;
+  max-width: 640px;
+  padding: 0 24px 32px;
+  margin: 0 auto;
 }

@@ -1,0 +1,26 @@
+.section {
+  width: 100%;
+  max-width: 640px;
+  padding: 20px;
+  background-color: #a4bc92;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.home-hero {
+  padding-top: 64px;
+  margin-top: 64px;
+}
+
+.home-hero {
+  position: relative;
+}
+
+p {
+  margin-top: 10px;
+}
+/* Typography */
+
+/* .text {
+  float: left;
+} */
